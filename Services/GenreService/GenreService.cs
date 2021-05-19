@@ -25,7 +25,7 @@ namespace shop_api.Services.GenreService
       ServiceResponse<List<GenreDto>> serviceResponse = new ServiceResponse<List<GenreDto>>();
       List<Genre> dbGenre = await _context.Genres
       .Include(mg => mg.Movies)
-      .ThenInclude(m => m.Movie)
+      // .ThenInclude(m => m.Movie)
       .ToListAsync();
       serviceResponse.Data = (dbGenre.Select(g => _mapper.Map<GenreDto>(g))).ToList();
       return serviceResponse;

@@ -7740,11 +7740,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mickeberg/web-dev/C#/shop-api/shop-api.csproj",
+      "projectUniqueName": "/Users/mickeberg/web-dev/EC-Utbildningar/backend/new-movie-shop/movie-shop-backend/shop-api.csproj",
       "projectName": "shop-api",
-      "projectPath": "/Users/mickeberg/web-dev/C#/shop-api/shop-api.csproj",
+      "projectPath": "/Users/mickeberg/web-dev/EC-Utbildningar/backend/new-movie-shop/movie-shop-backend/shop-api.csproj",
       "packagesPath": "/Users/mickeberg/.nuget/packages/",
-      "outputPath": "/Users/mickeberg/web-dev/C#/shop-api/obj/",
+      "outputPath": "/Users/mickeberg/web-dev/EC-Utbildningar/backend/new-movie-shop/movie-shop-backend/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TUQJ3eYJIEbeGTczeWKocJXibNp95XNcXM3YcBGrUngj+6KX7jRdkMCrQ6zYOxuJkJKEIB1zBdWopmoPj12LYg==",
+  "dgSpecHash": "sKq7EvetBqkyH3PB98JzG4qPiGxEZtjNcXw24hnQjXyEBqINqiMkhbe3vEVwjD7iH0uvgb/J25m4dQ+oT++g5g==",
   "success": true,
-  "projectFilePath": "/Users/mickeberg/web-dev/C#/shop-api/shop-api.csproj",
+  "projectFilePath": "/Users/mickeberg/web-dev/EC-Utbildningar/backend/new-movie-shop/movie-shop-backend/shop-api.csproj",
   "expectedPackageFiles": [
     "/Users/mickeberg/.nuget/packages/automapper/10.1.0/automapper.10.1.0.nupkg.sha512",
     "/Users/mickeberg/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.0/automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

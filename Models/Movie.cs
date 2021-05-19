@@ -12,5 +12,6 @@ public class Movie
   public string Description { get; set; }
   public string ReleaseDate { get; set; }
   public decimal Rating { get; set; }
+  [JsonIgnore]
   public ICollection<MovieGenre> Genres { get; set; }
 }

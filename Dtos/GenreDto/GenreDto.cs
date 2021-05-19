@@ -7,6 +7,7 @@ namespace shop_api.Dtos
   {
     public int Id { get; set; }
     public string Name { get; set; }
+    [JsonIgnore]
     public ICollection<MovieGenre> Movies { get; set; }
   }
 }
